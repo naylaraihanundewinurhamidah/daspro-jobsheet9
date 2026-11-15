@@ -26,5 +26,7 @@ public class SearchNilai27 {
         } if (!ditemukan) {
             System.out.println("Nilai " + key + " tidak ditemukan.");
         }
+
+        input.close();
     }
 }
