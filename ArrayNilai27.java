@@ -22,5 +22,7 @@ public class ArrayNilai27 {
         }
         System.out.println("Jumlah mahasiswa yang lulus: " + jmlLulus);
         System.out.println("Jumlah mahasiswa yang tidak lulus: " + jmlTidakLulus);
+        
+        input.close();
     }
 }
