@@ -35,5 +35,7 @@ public class Tugas127 {
         System.out.println("Rata-rata nilai : " + rataRata);
         System.out.println("Nilai tertinggi : " + tertinggi);
         System.out.println("Nilai terendah  : " + terendah);
-    }
+
+        sc.close();
+    } 
 }
